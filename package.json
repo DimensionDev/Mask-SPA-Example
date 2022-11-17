@@ -9,6 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@masknet/base": "^0.1.0",
+    "@masknet/encryption": "^0.1.2",
+    "@masknet/kit": "^0.1.0",
+    "@masknet/typed-message": "^0.1.0",
+    "@masknet/typed-message-react": "^0.1.0",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
@@ -17,6 +22,7 @@
     "next": "13.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "ts-results-es": "^3.5.0",
     "typescript": "4.9.3"
   },
   "devDependencies": {
