@@ -1,0 +1,5 @@
+.github
+package.json
+pnpm-lock.yaml
+out
+.next
